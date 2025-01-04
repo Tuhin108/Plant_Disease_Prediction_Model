@@ -14,7 +14,7 @@ The DATASET Used is - https://www.kaggle.com/datasets/vipoooool/new-plant-diseas
 
 ## Link of the website - https://tuhin-plant-disease-prediction-model.streamlit.app/
 
-# Plant_Disease_Prediction_Model
+# Plant Disease Prediction Model
 #Model 
 
 I have developing a Convolutional Neural Network (CNN)-based deep learning model as part of my internship, focusing on precision agriculture. The project aims to detect and classify plant diseases from high-resolution images of crop leaves, including apples, cherries, grapes, and corn.
