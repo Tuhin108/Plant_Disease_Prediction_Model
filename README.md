@@ -12,7 +12,7 @@ The DATASET Used is - https://www.kaggle.com/datasets/vipoooool/new-plant-diseas
 
 # If you want to check the working model then use the data of diseases mentioned of the Dataset. 
 
-# Link of the website - https://tuhin-plant-disease-prediction-model.streamlit.app/
+## Link of the website - https://tuhin-plant-disease-prediction-model.streamlit.app/
 
 # Plant_Disease_Prediction_Model
 #Model 
